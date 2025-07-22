@@ -1,0 +1,5 @@
+.DS_Store
+.Trash/
+*.log
+*.war
+devops_mac_retry/
