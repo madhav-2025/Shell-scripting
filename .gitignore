@@ -3,3 +3,5 @@
 *.log
 *.war
 devops_mac_retry/
+*.war
+jenkins.war
